@@ -114,3 +114,4 @@ with col4:
     """, unsafe_allow_html=True)
     if st.button("Go to Explainability"):
         st.switch_page("Pages/4_Explainability.py")
+
